@@ -1,0 +1,24 @@
+{
+  "name": "api_loja_hardware",
+  "version": "1.0.0",
+  "description": "a api é um  trabalho  de pw2 do 2°modulo da etec, elá será trabalhada até o final do modulo e tem como função fazer a conversa do front para o back de uma loja de hardware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ETEC",
+    "JS",
+    "API",
+    "PW2",
+    "LOJA",
+    "HARDWARE"
+  ],
+  "author": "Vinicius Lourenço",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19"
+  }
+}
